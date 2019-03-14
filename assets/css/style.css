@@ -1,0 +1,35 @@
+.jumbotron {
+    background: salmon;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+body {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.card-header {
+    font-weight: bold;
+    background: #4499ed;
+    font-size: 25px;
+}
+
+h1 {
+    text-align: center;
+}
+
+label, th {
+    font-weight: bold;
+    font-size: 25px;
+    margin: 10px 0 10px 0;
+}
+
+.btn-primary {
+    font-weight: bold;
+    font-size: 25px;
+    margin: 10px 0 10px 0;
+}
